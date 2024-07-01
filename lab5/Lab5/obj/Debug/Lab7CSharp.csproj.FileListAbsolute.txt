@@ -1,0 +1,11 @@
+C:\Users\Катя\Source\Repos\csharplab7-MahdaKateryna\Lab7CSharp\bin\Debug\Lab7CSharp.exe.config
+C:\Users\Катя\Source\Repos\csharplab7-MahdaKateryna\Lab7CSharp\bin\Debug\Lab7CSharp.exe
+C:\Users\Катя\Source\Repos\csharplab7-MahdaKateryna\Lab7CSharp\bin\Debug\Lab7CSharp.pdb
+C:\Users\Катя\Source\Repos\csharplab7-MahdaKateryna\Lab7CSharp\obj\Debug\Lab7CSharp.csproj.AssemblyReference.cache
+C:\Users\Катя\Source\Repos\csharplab7-MahdaKateryna\Lab7CSharp\obj\Debug\Lab7CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Катя\Source\Repos\csharplab7-MahdaKateryna\Lab7CSharp\obj\Debug\Lab7CSharp.Properties.Resources.resources
+C:\Users\Катя\Source\Repos\csharplab7-MahdaKateryna\Lab7CSharp\obj\Debug\Lab7CSharp.csproj.GenerateResource.cache
+C:\Users\Катя\Source\Repos\csharplab7-MahdaKateryna\Lab7CSharp\obj\Debug\Lab7CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Source\Repos\csharplab7-MahdaKateryna\Lab7CSharp\obj\Debug\Lab7CSharp.exe
+C:\Users\Катя\Source\Repos\csharplab7-MahdaKateryna\Lab7CSharp\obj\Debug\Lab7CSharp.pdb
+C:\Users\Катя\source\repos\csharplab7-MahdaKateryna\Lab7CSharp\obj\Debug\ShapeDrawingApp.Form1.resources
